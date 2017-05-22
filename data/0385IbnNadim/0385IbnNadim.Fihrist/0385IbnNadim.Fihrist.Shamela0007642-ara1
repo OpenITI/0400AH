@@ -1,43 +1,42 @@
-#####ARABICA#SUBJECT#
+######OpenITI#
 
 
-######## BEGofRECORD ###################################################
-#000000# 000.SortField	:: Shamela_0007642
-#NewRec# 000.BookURI	:: #0385.IbnNadim.Fihrist
-#NewRec# 010.AuthorAKA	:: NODATA
-#NewRec# 010.AuthorNAME	:: أبو الفرج محمد بن إسحاق بن محمد الوراق البغدادي المعتزلي الشيعي المعروف بابن النديم (المتوفى: 438هـ)
-#NewRec# 011.AuthorBORN	:: NOTGIVEN
-#NewRec# 011.AuthorDIED	:: 438
-#NewRec# 019.AuthorDIED	:: NODATA
-#NewRec# 020.BookTITLE	:: الفهرست
-#NewRec# 020.BookTITLESUB	:: NODATA
-#NewRec# 021.BookSUBJ	:: فهارس الكتب والأدلة
-#NewRec# 022.BookVOLS	:: 1
-#NewRec# 025.BookLANG	:: NODATA
-#NewRec# 029.BookTITLEalt	:: NODATA
-#NewRec# 030.LibURI	:: Shamela_0007642
-#NewRec# 030.LibURIextra	:: NODATA
-#NewRec# 031.LibREADONLINE	:: http://shamela.ws/browse.php/book-7642
-#NewRec# 031.LibURL	:: http://shamela.ws/index.php/book/7642
-#NewRec# 031.LibURLFILE	:: NODATA
-#NewRec# 031.LibURLextra	:: NODATA
-#NewRec# 040.EdALL	:: NODATA
-#NewRec# 040.EdEDITOR	:: إبراهيم رمضان
-#NewRec# 041.EdNUMBER	:: الثانية 1417 هـ - 1997 مـ
-#NewRec# 041.EdNumber	:: NODATA
-#NewRec# 043.EdPUBLISHER	:: دار المعرفة بيروت - لبنان
-#NewRec# 044.EdPLACE	:: NODATA
-#NewRec# 045.EdYEAR	:: NODATA
-#NewRec# 049.EdISBN	:: NODATA
-#NewRec# 049.EdPAGES	:: NODATA
-#NewRec# 049.EdPHYSICAL	:: NODATA
-#NewRec# 049.EdVOLUME	:: NODATA
-#NewRec# 090.RecMISC	:: NODATA
-#NewRec# 999.MiscINFO	:: NODATA
+#META# 000.SortField	:: Shamela_0007642
+#META# 000.BookURI	:: #0385.IbnNadim.Fihrist
+#META# 010.AuthorAKA	:: NODATA
+#META# 010.AuthorNAME	:: أبو الفرج محمد بن إسحاق بن محمد الوراق البغدادي المعتزلي الشيعي المعروف بابن النديم (المتوفى: 438هـ)
+#META# 011.AuthorBORN	:: NOTGIVEN
+#META# 011.AuthorDIED	:: 438
+#META# 019.AuthorDIED	:: NODATA
+#META# 020.BookTITLE	:: الفهرست
+#META# 020.BookTITLESUB	:: NODATA
+#META# 021.BookSUBJ	:: فهارس الكتب والأدلة
+#META# 022.BookVOLS	:: 1
+#META# 025.BookLANG	:: NODATA
+#META# 029.BookTITLEalt	:: NODATA
+#META# 030.LibURI	:: Shamela_0007642
+#META# 030.LibURIextra	:: NODATA
+#META# 031.LibREADONLINE	:: http://shamela.ws/browse.php/book-7642
+#META# 031.LibURL	:: http://shamela.ws/index.php/book/7642
+#META# 031.LibURLFILE	:: NODATA
+#META# 031.LibURLextra	:: NODATA
+#META# 040.EdALL	:: NODATA
+#META# 040.EdEDITOR	:: إبراهيم رمضان
+#META# 041.EdNUMBER	:: الثانية 1417 هـ - 1997 مـ
+#META# 041.EdNumber	:: NODATA
+#META# 043.EdPUBLISHER	:: دار المعرفة بيروت - لبنان
+#META# 044.EdPLACE	:: NODATA
+#META# 045.EdYEAR	:: NODATA
+#META# 049.EdISBN	:: NODATA
+#META# 049.EdPAGES	:: NODATA
+#META# 049.EdPHYSICAL	:: NODATA
+#META# 049.EdVOLUME	:: NODATA
+#META# 090.RecMISC	:: NODATA
+#META# 999.MiscINFO	:: NODATA
 
 
 
-#####ARABICA#SUBJECT#XXX#
+#META#Header#End#
 # PageV00P000
 ### | مقدمة
 # المؤلف:

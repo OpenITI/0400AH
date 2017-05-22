@@ -1,39 +1,38 @@
-#####ARABICA#SUBJECT#
+######OpenITI#
 
 
-######## BEGofRECORD ###################################################
-#000000# 000.SortField	:: JK_009283
-#NewRec# 000.BookURI	:: NOCODE
-#NewRec# 010.AuthorAKA	:: الشمشاطي
-#NewRec# 010.AuthorNAME	:: أبو الحسن علي بن محمد بن المطهر العدوي المعروف بالشمشاطي
-#NewRec# 011.AuthorBORN	:: NOTGIVEN
-#NewRec# 011.AuthorDIED	:: 377
-#NewRec# 019.AuthorDIED	:: NODATA
-#NewRec# 020.BookTITLE	:: الأنوار ومحاسن الأشعار
-#NewRec# 020.BookTITLESUB	:: NODATA
-#NewRec# 021.BookSUBJ	:: كتب الأدب :: من عيون الشعر العربي وكتبه
-#NewRec# 022.BookVOLS	:: 1
-#NewRec# 025.BookLANG	:: NODATA
-#NewRec# 029.BookTITLEalt	:: الأنوار ومحاسن الأشعار
-#NewRec# 030.LibURI	:: JK_009283
-#NewRec# 030.LibURIextra	:: NODATA
-#NewRec# 031.LibREADONLINE	:: NODATA
-#NewRec# 031.LibURL	:: NODATA
-#NewRec# 031.LibURLFILE	:: NODATA
-#NewRec# 031.LibURLextra	:: NODATA
-#NewRec# 040.EdALL	:: NODATA
-#NewRec# 040.EdEDITOR	:: صالح مهدي العزاوي
-#NewRec# 041.EdNUMBER	:: NODATA
-#NewRec# 041.EdNumber	:: NODATA
-#NewRec# 043.EdPUBLISHER	:: منشورات وزارة الأعلام العراقية
-#NewRec# 044.EdPLACE	:: بغداد / العراق
-#NewRec# 045.EdYEAR	:: 1976 م
-#NewRec# 049.EdISBN	:: NODATA
-#NewRec# 049.EdPAGES	:: NODATA
-#NewRec# 049.EdPHYSICAL	:: NODATA
-#NewRec# 049.EdVOLUME	:: NODATA
-#NewRec# 090.RecMISC	:: NODATA
-#NewRec# 999.MiscINFO	:: NODATA
+#META# 000.SortField	:: JK_009283
+#META# 000.BookURI	:: NOCODE
+#META# 010.AuthorAKA	:: الشمشاطي
+#META# 010.AuthorNAME	:: أبو الحسن علي بن محمد بن المطهر العدوي المعروف بالشمشاطي
+#META# 011.AuthorBORN	:: NOTGIVEN
+#META# 011.AuthorDIED	:: 377
+#META# 019.AuthorDIED	:: NODATA
+#META# 020.BookTITLE	:: الأنوار ومحاسن الأشعار
+#META# 020.BookTITLESUB	:: NODATA
+#META# 021.BookSUBJ	:: كتب الأدب :: من عيون الشعر العربي وكتبه
+#META# 022.BookVOLS	:: 1
+#META# 025.BookLANG	:: NODATA
+#META# 029.BookTITLEalt	:: الأنوار ومحاسن الأشعار
+#META# 030.LibURI	:: JK_009283
+#META# 030.LibURIextra	:: NODATA
+#META# 031.LibREADONLINE	:: NODATA
+#META# 031.LibURL	:: NODATA
+#META# 031.LibURLFILE	:: NODATA
+#META# 031.LibURLextra	:: NODATA
+#META# 040.EdALL	:: NODATA
+#META# 040.EdEDITOR	:: صالح مهدي العزاوي
+#META# 041.EdNUMBER	:: NODATA
+#META# 041.EdNumber	:: NODATA
+#META# 043.EdPUBLISHER	:: منشورات وزارة الأعلام العراقية
+#META# 044.EdPLACE	:: بغداد / العراق
+#META# 045.EdYEAR	:: 1976 م
+#META# 049.EdISBN	:: NODATA
+#META# 049.EdPAGES	:: NODATA
+#META# 049.EdPHYSICAL	:: NODATA
+#META# 049.EdVOLUME	:: NODATA
+#META# 090.RecMISC	:: NODATA
+#META# 999.MiscINFO	:: NODATA
 
 
 

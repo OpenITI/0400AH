@@ -1,4 +1,4 @@
-#####ARABICA#SUBJECT#GEOGRAPHY#
+######OpenITI#GEOGRAPHY#
 #####FILENAME#Shamela_0023696
 ### = ED 
 # شمس الدين بن أحمد، أبو عبد الله الشاهي المعروف بالبشاري المقدسي. (335-381 ه)

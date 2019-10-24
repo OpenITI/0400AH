@@ -7,6 +7,6 @@
 90#VERS#COMMENT##: Originally annotated by Eric, validated by Gowaart. See readme file for Eric's
  comments on the quality of the digital text. Gowaart heavily edited the previously tagged structure,
  sometimes based on contents rather than on the edition, where headers often look to be the same
- size. Also cleaned up the digital text slightly by deleting footnotes by way of regex. 
+ size. Also cleaned up the digital text slightly by deleting footnotes by way of regex.
 90#VERS#DATE#####: 2019-07-30
 90#VERS#ISSUES###: NO_MAJOR_ISSUES

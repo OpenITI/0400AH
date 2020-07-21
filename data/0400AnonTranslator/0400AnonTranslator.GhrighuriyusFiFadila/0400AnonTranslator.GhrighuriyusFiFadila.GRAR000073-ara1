@@ -6,7 +6,6 @@
 #META# ed_info: Ed. Manfred Ullmann (1961), Die arabische Überlieferung der sogenannten Menandersentenzen, Wiesbaden: Kommissionsverlag Franz Steiner, pp. 64-73.
 #META# coll_id: tlg0541.perseus001.alpheios-text-ara2
 
-
 #META#Header#End#
 
 ### | [sentence 1]
@@ -191,7 +190,7 @@
 
 ### | [sentence 45]
 
-# ذاك منك بغضب [sic] عاقب إذا ما حكمت ولكن لا يكون
+# ذاك منك بغضب ms1 [sic] عاقب إذا ما حكمت ولكن لا يكون
 
 ### | [sentence 46]
 
@@ -372,7 +371,7 @@
 
 ### | [sentence 89]
 
-# إن العقل لجام كبير للشره
+# إن العقل لجام ms2 كبير للشره
 
 ### | [sentence 90]
 
@@ -385,4 +384,4 @@
 ### | [sentence 92]
 
 # يا شيخوخة إنك لشر سبيل الناس أن يهربوا منه PageV01P073
-~~
+~~ ms3

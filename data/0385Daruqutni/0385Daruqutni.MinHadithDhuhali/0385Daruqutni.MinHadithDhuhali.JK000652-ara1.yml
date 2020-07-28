@@ -3,16 +3,16 @@
 00#VERS#URI######: 0385Daruqutni.MinHadithDhuhali.JK000652-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/741213623
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/741213623
-80#VERS#LINKS####: https://k-tb.com/book/hadeeth5669-%D8%A7%D9%84%D8%AC%
-    D8%B2%D8%A1-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB-%D9%88%D8%A7%D9%84%D8%B
-    9%D8%B4%D8%B1%D9%88%D9%86-%D9%85%D9%86-%D8%AD%D8%AF%D9%8A%D8%AB-%D8%A3%D
-    8%A8%D9%8A-%D8%A7%D9%84%D8%B7%D8%A7%D9%87%D8%B1-%D8%A7%D9%84%D8%B0%D9%87
-    %D9%84%D9%8A-%D8%A7%D9%84%D9%82%D8%A7%D8%B6%D9%8A-%D8%B1%D8%AD%D9%85%D9%
-    87-%D8%A7%D9%84%D9%84%D9%87
-90#VERS#ANNOTATOR: HRH
-90#VERS#COMMENT##: 1- The typist has intentionally typed some of the
-    references (that appear in the footnotes) inside the text (i.e. after
-    the end of sentences). 2- The editorial section is the note of the
-    scribe.
+80#VERS#LINKS####: https://k-tb.com/book/hadeeth5669-الجزء-الثالث-والعشرون-من-حديث-أبي-الطاهر-الذهلي-القاضي-رحمه-الله
+90#VERS#ANNOTATOR: HRH, PV
+90#VERS#COMMENT##: The file contains only the 23rd part of al-Dāruquṭnī's selection of 
+    al-Dhuhlī's aḥādīth, transcribed from a manuscript.
+    The text is preceded by an isnād, of which the most recent 
+    transmitter is Abu Muḥammad al-ʿUthmānī al-Dībājī
+    (d. 572 according to Siyar al-aʿlām al-nubalā', 
+    https://islamweb.org/ar/library/index.php?page=bookcontents&idfrom=5370&idto=5370&bk_no=60&ID=5234).
+    PV removed footnotes in the text
+    (by comparing the JK text to Shamela0013097)
+    and added first-level tags to every numbered paragraph.
 90#VERS#DATE#####: 2020-02-16
-90#VERS#ISSUES###: RANDOM_CHARS, EDITORIAL_SECTIONS
+90#VERS#ISSUES###: INCOMPLETE_TEXT

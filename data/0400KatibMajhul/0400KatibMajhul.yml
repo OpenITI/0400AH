@@ -1,4 +1,4 @@
-00#AUTH#URI######: 0400MuallifYahudiMajhul
+00#AUTH#URI######: 0400KatibMajhul
 10#AUTH#ISM####AR: Fulān
 10#AUTH#KUNYA##AR: Abū Fulān, Abū Fulānaŧ
 10#AUTH#LAQAB##AR: Fulān al-dīn, Fulān al-dawlaŧ
@@ -14,5 +14,5 @@
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
-90#AUTH#COMMENT##: ID for all unidentified authors of the
-    so-called Afghan Geniza.
+90#AUTH#COMMENT##: ID for all unidentified authors of the so-called
+    Afghan Geniza.

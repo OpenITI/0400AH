@@ -15,7 +15,4 @@
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
-90#AUTH#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+90#AUTH#COMMENT##: EI2: "Abu ’l-Ḥasan ʿAlī b. ʿUmar b. Aḥmad b. Mahdī b. Masʿūd b. al-Nuʿmān b. Dīnār b. ʿAbdallāh , was born in Dār al-Ḳuṭn, a large quarter of Baghdad, whence he got his nisba , in 306/918.": http://dx.doi.org/10.1163/1573-3912_islam_SIM_1714

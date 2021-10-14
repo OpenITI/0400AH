@@ -1,11 +1,11 @@
 00#AUTH#URI######: 0398MaslamaMajriti
-10#AUTH#ISM####AR: Fulān
-10#AUTH#KUNYA##AR: Abū Fulān, Abū Fulānaŧ
-10#AUTH#LAQAB##AR: Fulān al-dīn, Fulān al-dawlaŧ
-10#AUTH#NASAB##AR: b. Fulān b. Fulān b. Fulān b. Fulān
-10#AUTH#NISBA##AR: al-Fulānī, al-Fāʿil, al-Fulānī, al-Mufaʿʿil
-10#AUTH#SHUHRA#AR: Ibn Fulān al-Fulānī
-20#AUTH#BORN#####: URIs from Althurayya, comma separated
+10#AUTH#ISM####AR: Maslamaŧ
+10#AUTH#KUNYA##AR: Abū al-Qāsim
+10#AUTH#LAQAB##AR: 
+10#AUTH#NASAB##AR: b. Aḥmad b. Qāsim
+10#AUTH#NISBA##AR: al-Majrīṭī, al-Fara=dī, al-Qurṭubī, al-Andalusī
+10#AUTH#SHUHRA#AR: Maslamaŧ al-Majrīṭī
+20#AUTH#BORN#####: Andalus_RE
 20#AUTH#DIED#####: URIs from Althurayya, comma separated
 20#AUTH#RESIDED##: URIs from Althurayya, comma separated
 20#AUTH#VISITED##: URIs from Althurayya, comma separated

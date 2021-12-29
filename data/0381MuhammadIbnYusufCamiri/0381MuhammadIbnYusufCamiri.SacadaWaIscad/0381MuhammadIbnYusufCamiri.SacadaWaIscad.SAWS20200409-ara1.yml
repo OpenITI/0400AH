@@ -3,8 +3,7 @@
 00#VERS#URI######: 0381MuhammadIbnYusufCamiri.SacadaWaIscad.SAWS20200409-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/67018409
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/67018409
-80#VERS#LINKS####:
-    https://archive.org/details/98989_201706/page/n27/mode/2up
+80#VERS#LINKS####: https://archive.org/details/20211130_20211130_1732
 90#VERS#ANNOTATOR: LMN
 90#VERS#COMMENT##: PS-Amiri; forms part of the Arabic gnomological texts
     that were transcribed for SAWS-project ("Sharing Ancient Wisdoms"); see
@@ -12,5 +11,6 @@
     SAWS;  only minimal (first-level) structural tagging has been added;
     revision of marginal notes required
     NB: check lines of poetry that seem too long: line numbers 4340, 5181, 5182
+   NOTE OF THE REVIEWER (HRH): The PDF link provided by the annotator was removed. I found the new link (which might be a reprint), and collated the text with it. So, now, first-level headers are typed. Levelling of the headers is corrected. Untagged headers are tagged. Body text is separated from the titles.
 90#VERS#DATE#####: 2020-04-09
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: PAGINATION

@@ -4,7 +4,8 @@
 10#AUTH#LAQAB##AR: 
 10#AUTH#NASAB##AR: b. Aḥmad
 10#AUTH#NISBA##AR: 
-10#AUTH#SHUHRA#AR: al-Maqdisī, al-Bašārī
+10#AUTH#SHUHRA#AR: al-Maqdisī, al-Baššārī
+10#AUTH#SHUHRA#EN: al-Muqaddasī
 20#AUTH#BORN#####: Sham_RE, BAYTMAQDIS_352E317N_S
 20#AUTH#DIED#####: URIs from Althurayya, comma separated
 20#AUTH#RESIDED##: URIs from Althurayya, comma separated
@@ -14,7 +15,10 @@
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
-90#AUTH#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+90#AUTH#COMMENT##: The author is best known in Western academia as al-Muqaddasī
+    (the nisba derived from al-Bayt al-Muqaddas, a name for Jerusalem);
+    in the Arabic-speaking world, his nisba is usually transcribed as al-Maqdisī
+    (derived from another variant of Jerusalem in Arabic, Bayt al-Maqdis).
+    Since the author himself only uses "Bayt al-Maqdis" in his own text,
+    and never "al-Bayt al-Muqaddas", it is safe to assume that he himself 
+    would have pronounced his name "al-Maqdisī".

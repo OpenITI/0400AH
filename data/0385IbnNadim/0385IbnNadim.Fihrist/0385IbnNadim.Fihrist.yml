@@ -14,7 +14,7 @@
 80#BOOK#STUDIES##: permalink, permalink, permalink
 80#BOOK#TRANSLAT#: permalink, permalink, permalink
 90#BOOK#COMMENT##: Devin Stewart ("Editing the Fihrist", 
-    Journal of Abbasid Studies 14, pp. 173-178)
+    Journal of Abbasid Studies 1, pp. 173-178)
     reviews the scholarship on the Fihrist. 
     His main points on the history of the text:
     * The original manuscript was written for a patron
@@ -61,12 +61,13 @@
     * another copy of the autograph, in three volumes, survives in Rajistan, India
       ("the Tonk manuscript"); it does not include the additions by al-Wazīr al-Maghribī. 
     Editions and translations: 
-    * ed. Gustav Flügel, Leipzig 1871-2. In OpenITI as GRAR000030.
+    * ed. Gustav Flügel, Leipzig 1871-2: uses the Paris ms. BnF ar. 4457 as its base.
+      In OpenITI as GRAR000030.
     * ed. Johann Fück: did not complete his edition but did a lot of work
     * tr. Bayard Dodge, New York 1970: based on the two halves of the Aṣl ms.
-    * ed. Reza Tajaddud 1971: based on the two halves of the Aṣl ms.,
-      but inconsistently distinguishes between the text of Ibn al-Nadīm
-      and al-Wazīr al-Maghribī. In OpenITI as Shia003355
+    * ed. Reza Tajaddud 1971: based on the two halves of the Aṣl ms. in addition to 
+      other mss.; inconsistently distinguishes between the text of Ibn al-Nadīm
+      and al-Wazīr al-Maghribī. In OpenITI as Shia003355.
     * ed. Ibrāhīm Ramaḍān, Beirut 1997: pirated copy of the Tajaddud ed.?? 
       In OpenITI as JK000557 and Shamela0007642.
     * ed. Muṣṭafā al-Shuwaymī, Tunis 1985: based on the two halves of the Aṣl ms.

@@ -6,6 +6,9 @@
 80#VERS#LINKS####: https://ketabpedia.com/تحميل/الأمثال-المولدة-ت-الأعرجي-المجمع-الثق/
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: The first editorial section at the end of the book is
-    the note of the scribe.
+        the note of the scribe.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-01-15
-90#VERS#ISSUES###: HTML_TAGS, EDITORIAL_SECTIONS
+90#VERS#ISSUES###: HTML_TAGS, EDITORIAL_SECTIONS, PRIMARY_VERSION, CLEANED_VERSION

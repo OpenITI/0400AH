@@ -5,6 +5,8 @@
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/33272125
 80#VERS#LINKS####: http://www.ar.islamic-sources.com/book/أخبار-المصحفين/
 90#VERS#ANNOTATOR: HRH
-90#VERS#COMMENT##: 
+90#VERS#COMMENT##: All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-01-11
-90#VERS#ISSUES###: EDITORIAL_SECTIONS
+90#VERS#ISSUES###: EDITORIAL_SECTIONS, PRIMARY_VERSION, CLEANED_VERSION

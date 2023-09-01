@@ -6,13 +6,16 @@
 80#VERS#LINKS####: http://alfeker.net/library.php?id=4135
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: The text was edited together with Ibn Bābawayh's
-    ʿIqāb al-aʿmāl; PV separated these two texts (see
-    0381IbnBabawayh.CiqabAcmal.Shia001138BK2-ara1) 1- HRH used a different
-    edition for collation. This edition has a few extra titles ("bāb"). HRH
-    indicated them with blank headers since they are useful for the
-    structure of the text.  2- Two other editions of the text that are
-    accessible on the internet can be found here:
-    http://alfeker.net/library.php?id=2100 and
-    http://alfeker.net/library.php?id=2542.
+        ʿIqāb al-aʿmāl; PV separated these two texts (see
+        0381IbnBabawayh.CiqabAcmal.Shia001138BK2-ara1) 1- HRH used a different
+        edition for collation. This edition has a few extra titles ("bāb"). HRH
+        indicated them with blank headers since they are useful for the
+        structure of the text.  2- Two other editions of the text that are
+        accessible on the internet can be found here:
+        http://alfeker.net/library.php?id=2100 and
+        http://alfeker.net/library.php?id=2542.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-01-12
-90#VERS#ISSUES###: EDITORIAL_SECTIONS
+90#VERS#ISSUES###: EDITORIAL_SECTIONS, PRIMARY_VERSION, CLEANED_VERSION

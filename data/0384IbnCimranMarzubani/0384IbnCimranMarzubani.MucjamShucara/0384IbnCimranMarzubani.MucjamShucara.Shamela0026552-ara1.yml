@@ -6,7 +6,10 @@
 80#VERS#LINKS####: http://almeshkat.net/book/13962
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: 1- The text did not have automatic tags for names.
-    2-Another edition of the text that is accessible on the internet can be
-    found here: https://archive.org/details/Moajam_Shoaraa
+        2-Another edition of the text that is accessible on the internet can be
+        found here: https://archive.org/details/Moajam_Shoaraa
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-01-20
-90#VERS#ISSUES###: HTML_TAGS, EDITORIAL_SECTIONS
+90#VERS#ISSUES###: HTML_TAGS, EDITORIAL_SECTIONS, PRIMARY_VERSION, CLEANED_VERSION

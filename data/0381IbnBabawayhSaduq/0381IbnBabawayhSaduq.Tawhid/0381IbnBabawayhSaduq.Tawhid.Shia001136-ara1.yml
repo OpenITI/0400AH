@@ -6,6 +6,9 @@
 80#VERS#LINKS####: http://shiabooks.net/library.php?id=9511
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: 1- A lot of English characters in the text (even in
-    the titles). 2- Some numbers are typed in Arabic instead of English.
+        the titles). 2- Some numbers are typed in Arabic instead of English.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-01-11
-90#VERS#ISSUES###: RANDOM_CHARS, EDITORIAL_SECTIONS
+90#VERS#ISSUES###: RANDOM_CHARS, EDITORIAL_SECTIONS, PRIMARY_VERSION, CLEANED_VERSION

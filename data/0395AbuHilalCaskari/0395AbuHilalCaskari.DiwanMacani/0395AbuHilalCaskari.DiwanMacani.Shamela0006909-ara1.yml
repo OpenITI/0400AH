@@ -6,5 +6,8 @@
 80#VERS#LINKS####: https://ketabonline.com/books/5435
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: There is a short part before each chapter that begins with “bismillah” and is a kind of introduction to that part, but it does not have any title. I tag these parts as first-level blank headers. 2- “&amp” appears instead of “salli-Allah” in the text. 3- Another edition of the book that is accessible online can be found here: https://ia600308.us.archive.org/19/items/waq72929/72929.pdf
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-05-25
-90#VERS#ISSUES###: RANDOM_CHARS, HTML_TAGS
+90#VERS#ISSUES###: RANDOM_CHARS, HTML_TAGS, PRIMARY_VERSION, CLEANED_VERSION

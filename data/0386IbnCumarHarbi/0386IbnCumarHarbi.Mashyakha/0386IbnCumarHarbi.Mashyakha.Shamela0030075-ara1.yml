@@ -3,12 +3,15 @@
 00#VERS#URI######: 0386IbnCumarHarbi.Mashyakha.Shamela0030075-ara1
 80#VERS#BASED####: NOT_FOUND
 80#VERS#COLLATED#: NOT_FOUND
-80#VERS#LINKS####:
+80#VERS#LINKS####: 
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: The text is published by “مخطوط نشر في برنامج جوامع
-    الكلم المجاني التابع لموقع الشبكة الإسلامية” and does not have a printed
-    version or PDF. It consists of 104 Hadiths and does not have anything
-    that needs to be tagged. There is just a PARATEXT section at the
-    beginning of the text.
+        الكلم المجاني التابع لموقع الشبكة الإسلامية” and does not have a printed
+        version or PDF. It consists of 104 Hadiths and does not have anything
+        that needs to be tagged. There is just a PARATEXT section at the
+        beginning of the text.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-02-22
-90#VERS#ISSUES###: PAGINATION
+90#VERS#ISSUES###: PAGINATION, PRIMARY_VERSION, CLEANED_VERSION

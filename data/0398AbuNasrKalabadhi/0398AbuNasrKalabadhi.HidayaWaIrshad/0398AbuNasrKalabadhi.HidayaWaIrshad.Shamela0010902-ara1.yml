@@ -6,8 +6,11 @@
 80#VERS#LINKS####: https://archive.org/details/Hassouni_505/mode/2up
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: PageV01P023-24 (i.e. “مقدمة المؤلف”) and the second
-    half of PageV01P026 are missing. 2- A few titles must be added at the
-    last part of the text using the Table of Contents in the end of Vol 2 (I
-    showed their places with first-level blank headers).
+        half of PageV01P026 are missing. 2- A few titles must be added at the
+        last part of the text using the Table of Contents in the end of Vol 2 (I
+        showed their places with first-level blank headers).
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-02-27
-90#VERS#ISSUES###: HTML_TAGS, MISSING_PARTS, EDITORIAL_SECTIONS
+90#VERS#ISSUES###: HTML_TAGS, MISSING_PARTS, EDITORIAL_SECTIONS, PRIMARY_VERSION, CLEANED_VERSION

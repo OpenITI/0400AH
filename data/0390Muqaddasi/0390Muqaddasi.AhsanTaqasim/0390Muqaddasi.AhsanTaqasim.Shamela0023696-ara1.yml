@@ -5,17 +5,16 @@
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/957333775
 80#VERS#LINKS####:
     https://archive.org/details/AhsanAlTakaseemFeyMarefatAlAkaleem
-90#VERS#ANNOTATOR: Masoumeh Seydi; Gowaart Van Den Bossche
-90#VERS#COMMENT##: Annotated by unknown, validated by Gowaart. Text has
-    been extensively pre-tagged with geographical data and notes referring
-    to footnotes. The .completed version does not contain this material. I
-    have not touched these tags. When re-evaluating I noticed that something
-    strange happened with the metadata which was all gone from the mARkdown
-    file, so I have pasted this back from the .completed file.
+90#VERS#ANNOTATOR: Masoumeh Seydi; Gowaart Van Den Bossche; HRH; PV
+90#VERS#COMMENT##: The original text file contained extensive tagging
+    by Masoumeh Seydi (routes and regions) for her PhD research.
+    PV created a copy of the file containing these tags
+    (0390Muqaddasi.AhsanTaqasim.MSG20230908-ara1) and
+    removed the additional tags in the Shamela file.
+    Annotated by unknown, validated by Gowaart. 
     NOTE OF THE REVIEWER (HRH): I reduced the levelling of the headers in page 10-61
     by one, and deleted the editorial section. 2- There are a lot of Latin words and
-    geographical tags in the text. 3- There is an MSG20191024-ara1 file in the
-    folder. I Just removed its mARkdown extension, but I didn’t change anything else
-    in this text since it seems to be a personal version.
+    geographical tags in the text.
+    PV removed the Latin words and other remnants of footnotes.
 90#VERS#DATE#####: 2019-07-30
-90#VERS#ISSUES###: RANDOM_CHARS
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, CLEANED_VERSION, PRIMARY_VERSION

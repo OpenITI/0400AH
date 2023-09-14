@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 8175
-00#VERS#LENGTH###: 2101
+00#VERS#CLENGTH##: 7959
+00#VERS#LENGTH###: 2049
 00#VERS#URI######: 0398MaslamaMajriti.FaslLaysaMinKitab.PAL065900968-ara1
 80#VERS#BASED####: https://ptolemaeus.badw.de/ms/659/968/transcription/1
 80#VERS#COLLATED#: https://ptolemaeus.badw.de/ms/659/968/transcription/1
@@ -23,6 +23,7 @@
     (introductions, footnotes, indices, ...)
     removed by HRH and MGR (OpenITI Clean operation, 2023)
     Link to the text file as it was before it was cleaned:
-    https://raw.githubusercontent.com/OpenITI/0400AH/pre-clean/data/0398MaslamaMajriti/0398MaslamaMajriti.FaslLaysaMinKitab/0398MaslamaMajriti.FaslLaysaMinKitab.PAL065900968-ara1.completed
+    https://raw.githubusercontent.com/OpenITI/0400AH/pre-
+    clean/data/0398MaslamaMajriti/0398MaslamaMajriti.FaslLaysaMinKitab/0398MaslamaMajriti.FaslLaysaMinKitab.PAL065900968-ara1.completed
 90#VERS#DATE#####: 2020-12-02
 90#VERS#ISSUES###: IMAGES, TABLES, PRIMARY_VERSION, CLEANED_VERSION

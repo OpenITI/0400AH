@@ -1,9 +1,9 @@
-00#VERS#CLENGTH##: 762091
-00#VERS#LENGTH###: 193846
+00#VERS#CLENGTH##: 717852
+00#VERS#LENGTH###: 183535
 00#VERS#URI######: 0381IbnBabawayhSaduq.CilalSharaic.Shia001140Vols-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/1035733350
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/1035733350
-80#VERS#LINKS####: 
+80#VERS#LINKS####:
     https://www.noorlib.ir/View/fa/Book/BookView/Image/2632/2/1
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: 1- The link in VERS#LINKS (which is exactly the same
@@ -19,6 +19,8 @@
     (introductions, footnotes, indices, ...)
     removed by HRH and MGR (OpenITI Clean operation, 2023)
     Link to the text file as it was before it was cleaned:
-    https://raw.githubusercontent.com/OpenITI/0400AH/pre-clean/data/0381IbnBabawayhSaduq/0381IbnBabawayhSaduq.CilalSharaic/0381IbnBabawayhSaduq.CilalSharaic.Shia001140Vols-ara1.completed
+    https://raw.githubusercontent.com/OpenITI/0400AH/pre-
+    clean/data/0381IbnBabawayhSaduq/0381IbnBabawayhSaduq.CilalSharaic/0381IbnBabawayhSaduq.CilalSharaic.Shia001140Vols-
+    ara1.completed
 90#VERS#DATE#####: 2020-01-03
 90#VERS#ISSUES###: EDITORIAL_SECTIONS, PRIMARY_VERSION, CLEANED_VERSION

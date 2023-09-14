@@ -1,9 +1,9 @@
-00#VERS#CLENGTH##: 668054
-00#VERS#LENGTH###: 165121
+00#VERS#CLENGTH##: 623014
+00#VERS#LENGTH###: 155073
 00#VERS#URI######: 0381IbnBabawayhSaduq.CuyunAkhbarRida.Shia001142Vols-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/992682151
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/992682151
-80#VERS#LINKS####: 
+80#VERS#LINKS####:
     https://www.noorlib.ir/View/fa/Book/BookView/Image/39487;
     http://alfeker.net/library.php?id=1868
 90#VERS#ANNOTATOR: HRH
@@ -19,6 +19,9 @@
     (introductions, footnotes, indices, ...)
     removed by HRH and MGR (OpenITI Clean operation, 2023)
     Link to the text file as it was before it was cleaned:
-    https://raw.githubusercontent.com/OpenITI/0400AH/pre-clean/data/0381IbnBabawayhSaduq/0381IbnBabawayhSaduq.CuyunAkhbarRida/0381IbnBabawayhSaduq.CuyunAkhbarRida.Shia001142Vols-ara1.completed
+    https://raw.githubusercontent.com/OpenITI/0400AH/pre-
+    clean/data/0381IbnBabawayhSaduq/0381IbnBabawayhSaduq.CuyunAkhbarRida/0381IbnBabawayhSaduq.CuyunAkhbarRida.Shia001142Vols-
+    ara1.completed
 90#VERS#DATE#####: 2020-01-04
-90#VERS#ISSUES###: RANDOM_CHARS, EDITORIAL_SECTIONS, PRIMARY_VERSION, CLEANED_VERSION
+90#VERS#ISSUES###: RANDOM_CHARS, EDITORIAL_SECTIONS, PRIMARY_VERSION,
+    CLEANED_VERSION

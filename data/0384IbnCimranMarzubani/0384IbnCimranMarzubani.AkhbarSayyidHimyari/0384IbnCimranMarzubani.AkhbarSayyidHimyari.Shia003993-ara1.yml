@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 40909
-00#VERS#LENGTH###: 9868
+00#VERS#CLENGTH##: 23200
+00#VERS#LENGTH###: 5671
 00#VERS#URI######: 0384IbnCimranMarzubani.AkhbarSayyidHimyari.Shia003993-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/21660399 (1993 reprint)
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/21660399
@@ -13,6 +13,8 @@
     (introductions, footnotes, indices, ...)
     removed by HRH and MGR (OpenITI Clean operation, 2023)
     Link to the text file as it was before it was cleaned:
-    https://raw.githubusercontent.com/OpenITI/0400AH/pre-clean/data/0384IbnCimranMarzubani/0384IbnCimranMarzubani.AkhbarSayyidHimyari/0384IbnCimranMarzubani.AkhbarSayyidHimyari.Shia003993-ara1.completed
+    https://raw.githubusercontent.com/OpenITI/0400AH/pre-
+    clean/data/0384IbnCimranMarzubani/0384IbnCimranMarzubani.AkhbarSayyidHimyari/0384IbnCimranMarzubani.AkhbarSayyidHimyari.Shia003993-ara1.completed
 90#VERS#DATE#####: 2020-01-18
-90#VERS#ISSUES###: RANDOM_CHARS, EDITORIAL_SECTIONS, PRIMARY_VERSION, CLEANED_VERSION
+90#VERS#ISSUES###: RANDOM_CHARS, EDITORIAL_SECTIONS, PRIMARY_VERSION,
+    CLEANED_VERSION

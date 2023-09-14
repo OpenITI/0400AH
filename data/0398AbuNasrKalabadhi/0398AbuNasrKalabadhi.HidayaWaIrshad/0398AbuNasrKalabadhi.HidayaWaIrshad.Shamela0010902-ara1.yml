@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 341839
-00#VERS#LENGTH###: 87137
+00#VERS#CLENGTH##: 341462
+00#VERS#LENGTH###: 87060
 00#VERS#URI######: 0398AbuNasrKalabadhi.HidayaWaIrshad.Shamela0010902-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/21333652
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/21333652
@@ -13,6 +13,8 @@
     (introductions, footnotes, indices, ...)
     removed by HRH and MGR (OpenITI Clean operation, 2023)
     Link to the text file as it was before it was cleaned:
-    https://raw.githubusercontent.com/OpenITI/0400AH/pre-clean/data/0398AbuNasrKalabadhi/0398AbuNasrKalabadhi.HidayaWaIrshad/0398AbuNasrKalabadhi.HidayaWaIrshad.Shamela0010902-ara1.completed
+    https://raw.githubusercontent.com/OpenITI/0400AH/pre-
+    clean/data/0398AbuNasrKalabadhi/0398AbuNasrKalabadhi.HidayaWaIrshad/0398AbuNasrKalabadhi.HidayaWaIrshad.Shamela0010902-ara1.completed
 90#VERS#DATE#####: 2020-02-27
-90#VERS#ISSUES###: HTML_TAGS, MISSING_PARTS, EDITORIAL_SECTIONS, PRIMARY_VERSION, CLEANED_VERSION
+90#VERS#ISSUES###: HTML_TAGS, MISSING_PARTS, EDITORIAL_SECTIONS,
+    PRIMARY_VERSION, CLEANED_VERSION

@@ -1,9 +1,10 @@
-00#VERS#CLENGTH##: 307629
-00#VERS#LENGTH###: 77685
+00#VERS#CLENGTH##: 305349
+00#VERS#LENGTH###: 77155
 00#VERS#URI######: 0382IbnCabdAllahCaskari.TashifatMuhaddithin.Shamela0002449-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/708712417
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/708712417
-80#VERS#LINKS####: https://ketabpedia.com/تحميل/تصحيفات-المحدثين-ت-محمود-أحمد-المطبع/
+80#VERS#LINKS####: https://ketabpedia.com/تحميل/تصحيفات-المحدثين-ت-محمود-أحمد-
+    المطبع/
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: 1- The Shamla version lacked the third volume, so I
     copied it from the Shia version which is exactly the same edition (with
@@ -17,6 +18,7 @@
     (introductions, footnotes, indices, ...)
     removed by HRH and MGR (OpenITI Clean operation, 2023)
     Link to the text file as it was before it was cleaned:
-    https://raw.githubusercontent.com/OpenITI/0400AH/pre-clean/data/0382IbnCabdAllahCaskari/0382IbnCabdAllahCaskari.TashifatMuhaddithin/0382IbnCabdAllahCaskari.TashifatMuhaddithin.Shamela0002449-ara1.completed
+    https://raw.githubusercontent.com/OpenITI/0400AH/pre-
+    clean/data/0382IbnCabdAllahCaskari/0382IbnCabdAllahCaskari.TashifatMuhaddithin/0382IbnCabdAllahCaskari.TashifatMuhaddithin.Shamela0002449-ara1.completed
 90#VERS#DATE#####: 2020-01-23
 90#VERS#ISSUES###: EDITORIAL_SECTIONS, PRIMARY_VERSION, CLEANED_VERSION

@@ -6,17 +6,19 @@
 80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
 90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
     use consistently)
-90#VERS#COMMENT##: All paratextual elements
-    (introductions, footnotes, indices, ...)
-    removed by HRH and MGR (OpenITI Clean operation, 2023)
-    Link to the text file as it was before it was cleaned:
-    https://raw.githubusercontent.com/OpenITI/0400AH/pre-
-    clean/data/0393AbuTahirMukhallis/0393AbuTahirMukhallis.Mukhallisiyyat/0393AbuTahirMukhallis.Mukhallisiyyat.Shamela0009107-ara1
+90#VERS#COMMENT##: This text file contains extracts
+    from only the ninth and tenth juzʾ of the Mukhalliṣiyyāt. 
     The original text file contained multiple texts:
     * 0412AbuFathIbnAbiFawaris.IntiqaMukhallisiyyat
     * 0399AbuBakrBaqqal.IntiqaMukhallisiyyat
     * 0700Anonymous.MuntaqaMinMuntaqaSabcatAjzaMukhallis
     * 0393AbuTahirMukhallis.JuzFihiAhadith
     * 0393AbuTahirMukhallis.SabcatMajalis
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0400AH/pre-
+    clean/data/0393AbuTahirMukhallis/0393AbuTahirMukhallis.Mukhallisiyyat/0393AbuTahirMukhallis.Mukhallisiyyat.Shamela0009107-ara1
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION, INCOMPLETE TEXT

@@ -12,5 +12,11 @@
     Link to the text file as it was before it was cleaned:
     https://raw.githubusercontent.com/OpenITI/0400AH/pre-
     clean/data/0393AbuTahirMukhallis/0393AbuTahirMukhallis.Mukhallisiyyat/0393AbuTahirMukhallis.Mukhallisiyyat.Shamela0009107-ara1
+    The original text file contained multiple texts:
+    * 0412AbuFathIbnAbiFawaris.IntiqaMukhallisiyyat
+    * 0399AbuBakrBaqqal.IntiqaMukhallisiyyat
+    * 0700Anonymous.MuntaqaMinMuntaqaSabcatAjzaMukhallis
+    * 0393AbuTahirMukhallis.JuzFihiAhadith
+    * 0393AbuTahirMukhallis.SabcatMajalis
 90#VERS#DATE#####: YYYY-MM-DD
 90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION

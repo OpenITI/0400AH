@@ -1,11 +1,11 @@
-00#AUTH#URI######: 0393AbuTahirMukhallis
-10#AUTH#ISM####AR: Muḥammad
-10#AUTH#KUNYA##AR: Abū Ṭāhir
-10#AUTH#LAQAB##AR: 
-10#AUTH#NASAB##AR: b. ʿAbd al-Raḥmãn b. al-ʿAbbās
-10#AUTH#NISBA##AR: al-Baġdādī, al-Ḏahabī
-10#AUTH#SHUHRA#AR: Abū Ṭāhir al-Muḫalliṣ
-20#AUTH#BORN#####: Iraq_RE
+00#AUTH#URI######: 0399AbuBakrBaqqal
+10#AUTH#ISM####AR: Fulān
+10#AUTH#KUNYA##AR: Abū Fulān, Abū Fulānaŧ
+10#AUTH#LAQAB##AR: Fulān al-dīn, Fulān al-dawlaŧ
+10#AUTH#NASAB##AR: b. Fulān b. Fulān b. Fulān b. Fulān
+10#AUTH#NISBA##AR: al-Fulānī, al-Fāʿil, al-Fulānī, al-Mufaʿʿil
+10#AUTH#SHUHRA#AR: Ibn Fulān al-Fulānī
+20#AUTH#BORN#####: URIs from Althurayya, comma separated
 20#AUTH#DIED#####: URIs from Althurayya, comma separated
 20#AUTH#RESIDED##: URIs from Althurayya, comma separated
 20#AUTH#VISITED##: URIs from Althurayya, comma separated

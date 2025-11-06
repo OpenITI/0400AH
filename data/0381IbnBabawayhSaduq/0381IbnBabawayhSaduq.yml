@@ -1,7 +1,7 @@
 00#AUTH#URI######: 0381IbnBabawayhSaduq
 10#AUTH#ISM####AR: Muḥammad
 10#AUTH#KUNYA##AR: Abū Ǧaʿfar
-10#AUTH#LAQAB##AR:
+10#AUTH#LAQAB##AR: 
 10#AUTH#NASAB##AR: b. ʿAlī b. al-Ḥusayn b. Mūsā b. Bābawayh
 10#AUTH#NISBA##AR: al-Qummī
 10#AUTH#SHUHRA#AR: Ibn Bābawayh, al-Šayḫ al-Ṣadūq
@@ -16,6 +16,7 @@
 30#AUTH#DIED###AH: 0381-XXX-XX (X+ for unknown)
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q2743660
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: Information taken from introduction to al-Muqniʿ. Born date
     is approximate.

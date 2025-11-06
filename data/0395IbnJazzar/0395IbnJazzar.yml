@@ -13,6 +13,7 @@
 30#AUTH#DIED###AH: YEAR-MON-DA (X+ for unknown)
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q1655888
 80#AUTH#BIBLIO###: permalink, permalink, permalink, permalink
 90#AUTH#COMMENT##: Death date used in the URI corresponds to date given in EI2
     s. v. Ibn al-Djazzār; several other dates are found.

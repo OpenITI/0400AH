@@ -8,6 +8,7 @@
     followed by abbreviation for relation type between brackets (see
     book_relations repo). Only include relations with older books. Separate
     related books with semicolon.
+70#BOOK#EXTID####: viaf@id, wikidata@id, src@id
 80#BOOK#EDITIONS#: http://www.worldcat.org/oclc/4771087611,
     http://www.worldcat.org/oclc/4771444716,
     https://www.nli.org.il/ar/books/NNL_ALEPH002169146/NLI
@@ -29,8 +30,8 @@
     Both versions in the corpus contain the text of the
     Jerusalem manuscript.
     * Shamela0005353 is an unpaginated digitization of an unidentified
-      edition, and misses a number of pages at the end.
+    edition, and misses a number of pages at the end.
     * Shamela0006997 and JK001218 are identical digitizations of the
-      Sāmarrā'ī edition (http://www.worldcat.org/oclc/4771444716),
-      which includes, in addition to the Manāzil (sic) al-ḥurūf,
-      also a second risāla, Risālat al-Ḥudūd.
+    Sāmarrā'ī edition (http://www.worldcat.org/oclc/4771444716),
+    which includes, in addition to the Manāzil (sic) al-ḥurūf,
+    also a second risāla, Risālat al-Ḥudūd.

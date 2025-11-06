@@ -4,13 +4,14 @@
     Nāziyanzū fī al-faḍīlaŧ ʿalá ḥurūf alfā fīṭā ilā kamālihā, aʿnī
     asmāʾ
     ḥurūf al-Yūnāniyyīn
-10#BOOK#TITLEB#AR:
+10#BOOK#TITLEB#AR: 
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
 40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
     followed by abbreviation for relation type between brackets (see
     book_relations repo). Only include relations with older books. Separate
     related books with semicolon.
+70#BOOK#EXTID####: viaf@id, wikidata@id, src@id
 80#BOOK#EDITIONS#: permalink, permalink, permalink
 80#BOOK#LINKS####: permalink, permalink, permalink
 80#BOOK#MSS######: permalink, permalink, permalink
